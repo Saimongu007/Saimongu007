@@ -46,4 +46,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saimongu007&show_icons=true&locale=en&theme=tokyonight" alt="Saimongu007" /></p>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saimongu007&&theme=tokyonight" alt="Saimongu007" /></p>
+</div>
